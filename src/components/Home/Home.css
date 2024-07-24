@@ -1,0 +1,22 @@
+/* styles.css */
+.heading {
+    font-size: 2.5em;
+    color: #e03c3c;
+  }
+  
+  .wave {
+    font-size: 2.5em;
+  }
+  
+  .heading-name {
+    font-size: 3em;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .heading-title {
+    font-size: 1.5em;
+    color: #6c757d;
+    margin-top: 20px;
+  }
+  
