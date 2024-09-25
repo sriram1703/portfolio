@@ -22,7 +22,7 @@ function Home2() {
               I am passionate about web development and proficient in HTML, CSS, JavaScript, and React.js. My expertise lies in creating responsive and user-friendly interfaces, including e-commerce websites and dynamic apps like weather applications. 
               <br />
               <br />I am skilled in integrating <i>
-                <b className="purple">Node.js</b> and <b className="purple">Express.js</b> for backend functionality
+                <b className="purple">Node.js </b> and <b className="purple">Endpoints</b>
               </i> and utilize <i>
                 <b className="purple">Bootstrap</b> for responsive design.
               </i>
