@@ -48,3 +48,5 @@ function App() {
 }
 
 export default App;
+//npm run build 
+//npm run deploy

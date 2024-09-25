@@ -35,7 +35,7 @@ function Projects() {
               imgPath={node}
               isBlog={false}
               title="Api Creation"
-              description="Developed a robust Customer Portal application using Node.js, implementing comprehensive CRUD (Create, Read, Update, Delete) operations to efficiently manage customer data. The application is built with an Express.js server that handles various API requests and integrates seamlessly with a MySQL database using Sequelize ORM for schema definition and data relationships. Key features include RESTful endpoints for adding, retrieving, updating, and deleting customer records, with thorough data validation and error handling to ensure data integrity. The application also incorporates user authentication using JWT middleware to secure the API endpoints. The use of JSON for response handling ensures smooth communication between the client and server, providing a reliable and user-friendly experience."
+              description="Developed a robust Customer Portal application using React.js. The application is built with an Express.js server that handles various API requests and integrates seamlessly with a MySQL database using Sequelize ORM for schema definition and data relationships.   The use of JSON for response handling ensures smooth communication between the client and server, providing a reliable and user-friendly experience."
             />
           </Col>
 
