@@ -30,14 +30,14 @@ function Projects() {
             />
           </Col>
 
-          <Col md={6} className="project-card">
+          {/* <Col md={6} className="project-card">
             <ProjectCard
               imgPath={node}
               isBlog={false}
               title="Api Creation"
               description="Developed a robust Customer Portal application using React.js. The application is built with an Express.js server that handles various API requests and integrates seamlessly with a MySQL database using Sequelize ORM for schema definition and data relationships.   The use of JSON for response handling ensures smooth communication between the client and server, providing a reliable and user-friendly experience."
             />
-          </Col>
+          </Col> */}
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
